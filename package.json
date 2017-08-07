@@ -1,0 +1,16 @@
+{
+  "name": "machilia-document",
+  "version": "1.0.0",
+  "scripts": {
+    "gitbook": "gitbook",
+    "serve": "gitbook serve",
+    "build": "gitbook build ./ ../docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machiiro/machilia-document.git"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
