@@ -17,6 +17,7 @@
   * EC管理
     * [注文](admin/ec/order/index.md)
       * [ステータス変更](admin/ec/order/status.md)
+    * [クーポン](admin/ec/coupon.md)
     * [支払方法](admin/ec/payment-type.md)
     * [配送方法](admin/ec/delivery.md)
     * [税率](admin/ec/tax.md)
